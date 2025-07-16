@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 I’m currently working on **College Finder System (PHP + Django)**
-- 🌱 I’m currently learning **React.js**, **Python**, and **AI Tools**
-- 🛡️ Focused on **Cybersecurity**, **Data Science**, and **System Admin**
-- 💬 Ask me about `PHP`, `MySQL`, `React`, `Linux`, or `Git`
-- 📫 How to reach me: **bhattaraisir@gmail.com**
-- ⚡ Fun fact: I write code faster after a cup of chiya ☕😄
+- 🔭 I’m currently working on **College Finder System (PHP + Javascript)**
+- 🌱 I’m currently learning **React.js**, **Python**, **AI Tools** , **Data Science and Machine Learning**
+- 🛡️ Focused on **Python**, **Data Science and Machine Learning**, and **AI Tools**
+- 💬 Ask me about `PHP`, `MySQL`, `React`, `Python`, or `Git`
+- 📫 How to reach me: **bhattaraiavinash4@gmail.com**
+- ⚡ Fun fact: I write code faster after a cup of chiya 😋☕
 
 ---
 
@@ -32,12 +32,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhattaraisir&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaraisir&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhattaraiabinash&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaraiabinash&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraisir&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraiabinash&layout=compact&theme=radical" />
 </p>
 
 ---
